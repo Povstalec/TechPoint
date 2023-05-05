@@ -1,0 +1,44 @@
+{
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "techpoint:sulfuric_acid_bottle"
+		},
+		"title": 
+		{
+			"translate": "advancements.techpoint.chemistry.root.title"
+		},
+		"description": 
+		{
+			"translate": "advancements.techpoint.chemistry.root.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false,
+    	"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": 
+	{
+		"has_soap": 
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions": 
+			{
+				"items":
+				[
+					{
+						"tag": "techpoint:sulfuric_acid"
+					}
+				]
+			}
+		}
+	},
+	"requirements": 
+	[
+		[
+			"has_soap"
+		]
+	]
+}

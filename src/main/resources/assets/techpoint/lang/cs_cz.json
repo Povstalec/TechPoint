@@ -1,0 +1,32 @@
+{
+	"item.techpoint.salt": "S\u016fl",
+	"item.techpoint.sulfur": "S\u00edra",
+	"item.techpoint.ash": "Popel",
+	"item.techpoint.potash": "Pota\u0161",
+	"item.techpoint.magnetite": "Magnetit",
+	
+	"item.techpoint.salted_brown_mushroom": "Posolen\u00fd h\u0159ib",
+	
+	"item.techpoint.nitric_acid_bowl": "Miska s kyselinou dusi\u010dnou",
+	"item.techpoint.nitric_acid_bottle": "Lahvi\u010dka s kyselinou dusi\u010dnou",
+	"item.techpoint.sodium_carbonate": "Uhli\u010ditan sodn\u00fd",
+	"item.techpoint.potassium_nitrate": "Dusi\u010dnan draseln\u00fd",
+	"item.techpoint.sulfuric_acid_bottle": "Lahvi\u010dka s kyselinou s\u00edrovou",
+	
+	"item.techpoint.soap": "M\u00fddlo",
+	"item.techpoint.magnet": "Magnet",
+	
+	"itemGroup.techpoint_items": "TechPoint - P\u0159edm\u011bty",
+	
+	"advancements.techpoint.root.title": "Kr\u00e1lovstv\u00ed v\u011bdy",
+	"advancements.techpoint.root.description": "TechPoint",
+	"advancements.techpoint.soap.title": "Dr. Stone",
+	"advancements.techpoint.soap.description": "Vytvo\u0159 m\u00fddlo",
+	"advancements.techpoint.gunpowder.title": "Zbran\u011b v\u011bdy",
+	"advancements.techpoint.gunpowder.description": "Z\u00edskej st\u0159eln\u00fd prach",
+	"advancements.techpoint.salted_food.title": "Slan\u00e9",
+	"advancements.techpoint.salted_food.description": "Se \u0161petkou soli m\u016fže lidem chutnat cokoli",
+	
+	"advancements.techpoint.chemistry.root.title": "Z\u00e1klad chemie",
+	"advancements.techpoint.chemistry.root.description": "Z\u00edskej kyselinu s\u00edrovou"
+}

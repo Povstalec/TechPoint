@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": 
+	[
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+		{"item": "techpoint:ash"},
+    	{"item": "minecraft:water_bucket"}
+	],
+	"result":
+	{
+		"item": "techpoint:potash",
+		"count": 1
+	}
+}

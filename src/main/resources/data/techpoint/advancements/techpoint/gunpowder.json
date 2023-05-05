@@ -1,0 +1,47 @@
+{
+	"parent": "techpoint:techpoint/root",
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "minecraft:gunpowder"
+		},
+		"title": 
+		{
+			"translate": "advancements.techpoint.gunpowder.title"
+		},
+		"description": 
+		{
+			"translate": "advancements.techpoint.gunpowder.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": 
+	{
+		"has_gunpowder": 
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions": 
+			{
+				"items":
+				[
+					{
+						"items":
+						[
+							"minecraft:gunpowder"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": 
+	[
+		[
+			"has_gunpowder"
+		]
+	]
+}

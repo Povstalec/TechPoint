@@ -1,0 +1,47 @@
+{
+	"parent": "techpoint:techpoint/root",
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "techpoint:soap"
+		},
+		"title": 
+		{
+			"translate": "advancements.techpoint.soap.title"
+		},
+		"description": 
+		{
+			"translate": "advancements.techpoint.soap.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": 
+	{
+		"has_soap": 
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions": 
+			{
+				"items":
+				[
+					{
+						"items":
+						[
+							"techpoint:soap"
+						]
+					}
+				]
+			}
+		}
+	},
+	"requirements": 
+	[
+		[
+			"has_soap"
+		]
+	]
+}

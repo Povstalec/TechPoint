@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[44,)"
+license="Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+issueTrackerURL="https://github.com/Povstalec/TechPoint/issues"
+[[mods]]
+modId="techpoint"
+version="0.1.0"
+displayName="TechPoint"
+logoFile="techpoint_large.png"
+credits="-"
+authors="Woldericz_Junior"
+displayTest="MATCH_VERSION"
+
+description='''
+TechPoint
+'''
+[[dependencies.techpoint]]
+    modId="forge"
+    mandatory=true
+    versionRange="[44,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.techpoint]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.3,1.20)"
+    ordering="NONE"
+    side="BOTH"

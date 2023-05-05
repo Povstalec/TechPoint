@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": 
+	[
+		{"tag": "techpoint:lye"},
+    	{"item": "minecraft:water_bucket"},
+    	{"item": "techpoint:sodium_carbonate"},
+		{"tag": "techpoint:nitric_acid"}
+	],
+	"result":
+	{
+		"item": "techpoint:soap",
+		"count": 1
+	}
+}

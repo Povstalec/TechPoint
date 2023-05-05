@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": 
+	[
+		{"item": "techpoint:salt"},
+    	{"item": "minecraft:brown_mushroom"}
+	],
+	"result":
+	{
+		"item": "techpoint:salted_brown_mushroom",
+		"count": 1
+	}
+}

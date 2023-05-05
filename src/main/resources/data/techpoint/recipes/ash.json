@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:smelting",
+	"category": "misc",
+	"cookingtime": 50,
+	"experience": 0.35,
+	"ingredient":
+	{
+		"tag": "techpoint:incinerare"
+	},
+	"result": "techpoint:ash"
+}

@@ -1,0 +1,32 @@
+{
+	"item.techpoint.salt": "Salt",
+	"item.techpoint.sulfur": "Sulfur",
+	"item.techpoint.ash": "Ash",
+	"item.techpoint.potash": "Potash",
+	"item.techpoint.magnetite": "Magnetite",
+	
+	"item.techpoint.salted_brown_mushroom": "Salted Brown Mushroom",
+	
+	"item.techpoint.nitric_acid_bowl": "Nitric Acid Bowl",
+	"item.techpoint.nitric_acid_bottle": "Nitric Acid Bottle",
+	"item.techpoint.sodium_carbonate": "Sodium Carbonate",
+	"item.techpoint.potassium_nitrate": "Potassium Nitrate",
+	"item.techpoint.sulfuric_acid_bottle": "Sulfuric Acid Bottle",
+	
+	"item.techpoint.soap": "Soap",
+	"item.techpoint.magnet": "Magnet",
+	
+	"itemGroup.techpoint_items": "TechPoint - Items",
+	
+	"advancements.techpoint.root.title": "Kingdom of science",
+	"advancements.techpoint.root.description": "TechPoint",
+	"advancements.techpoint.soap.title": "Dr. Stone",
+	"advancements.techpoint.soap.description": "Create Soap",
+	"advancements.techpoint.gunpowder.title": "Weapons of Science",
+	"advancements.techpoint.gunpowder.description": "Obtain Gunpowder",
+	"advancements.techpoint.salted_food.title": "Salty",
+	"advancements.techpoint.salted_food.description": "Humans can enjoy just about anything with a pinch of salt",
+	
+	"advancements.techpoint.chemistry.root.title": "Foundation of Chemistry",
+	"advancements.techpoint.chemistry.root.description": "Obtain Sulfuric Acid"
+}

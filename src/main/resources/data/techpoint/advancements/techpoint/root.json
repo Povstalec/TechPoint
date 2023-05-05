@@ -1,0 +1,44 @@
+{
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "techpoint:nitric_acid_bowl"
+		},
+		"title": 
+		{
+			"translate": "advancements.techpoint.root.title"
+		},
+		"description": 
+		{
+			"translate": "advancements.techpoint.root.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+    	"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": 
+	{
+		"has_soap": 
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions": 
+			{
+				"items":
+				[
+					{
+						"tag": "techpoint:nitric_acid"
+					}
+				]
+			}
+		}
+	},
+	"requirements": 
+	[
+		[
+			"has_soap"
+		]
+	]
+}

@@ -1,0 +1,44 @@
+{
+	"parent": "techpoint:techpoint/root",
+	"display": 
+	{
+		"icon": 
+		{
+			"item": "techpoint:salt"
+		},
+		"title": 
+		{
+			"translate": "advancements.techpoint.salted_food.title"
+		},
+		"description": 
+		{
+			"translate": "advancements.techpoint.salted_food.description"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": 
+	{
+		"has_salted_food": 
+		{
+			"trigger": "minecraft:inventory_changed",
+			"conditions": 
+			{
+				"items":
+				[
+					{
+						"tag": "techpoint:salted_food"
+					}
+				]
+			}
+		}
+	},
+	"requirements": 
+	[
+		[
+			"has_salted_food"
+		]
+	]
+}

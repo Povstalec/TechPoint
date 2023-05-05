@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"category": "misc",
+	"ingredients": 
+	[
+		{"item": "techpoint:potash"},
+		{"tag": "techpoint:nitric_acid"}
+	],
+	"result":
+	{
+		"item": "techpoint:potassium_nitrate",
+		"count": 1
+	}
+}
